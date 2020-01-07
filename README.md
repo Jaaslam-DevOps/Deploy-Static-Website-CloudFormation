@@ -1,5 +1,5 @@
-# Deploy-Static-Website-CloudFormation
-Deploy Static website on AWS using CloudFormation.
+# Deploy-Static-Website-CloudFront
+Deploy Static website on AWS using CloudFront
 
 In this project, below were the high level steps perfromed.
 
